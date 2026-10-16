@@ -1,5 +1,7 @@
 
-
+<p align="center">
+  <img src="assets/banner.svg" alt="ZedO0x — Offensive Security Researcher: web and API security, bug bounty, reconnaissance, Linux privilege escalation, AI red teaming" width="100%">
+</p>
 <img src="assets/zedoox-hacker.gif" alt="Animated ASCII hooded figure with pulsing red eyes in a terminal window" width="440" align="left">
 
 <img src="assets/zedoox-logo.png" alt="ZedO0x logo: red hooded figure on black" width="56" align="right">
