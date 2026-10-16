@@ -2,17 +2,37 @@
   <img src="assets/banner.svg" alt="ZedO0x — Offensive Security Researcher: web and API security, bug bounty, reconnaissance, Linux privilege escalation, AI red teaming" width="100%">
 </p>
 
+<img src="assets/zedoox-hacker.gif" alt="Animated ASCII hooded figure with pulsing red eyes in a terminal window" width="440" align="left">
+
+<img src="assets/zedoox-logo.png" alt="ZedO0x logo: red hooded figure on black" width="56" align="right">
+
+### ZedO0x `|` Offensive Security Researcher
+
+Bug bounty hunter and security researcher. I map attack surface, test how applications
+enforce trust, and build Python tooling to make that work repeatable.
+
+<img src="assets/divider.svg" width="380" alt="">
+
+**What I do**<br>
+<code>▸</code> Bug Bounty Hunting<br>
+<code>▸</code> Web &amp; API Penetration Testing<br>
+<code>▸</code> Security Automation with Python<br>
+<code>▸</code> Reconnaissance &amp; Vulnerability Research
+
+<img src="assets/divider.svg" width="380" alt="">
+
+**In progress**<br>
+<code>◇</code> Mobile Application Security: <i>currently developing</i><br>
+<code>◇</code> AI Security &amp; Red Teaming: <i>currently developing</i><br>
+<code>◇</code> OSCP Candidate: <i>actively preparing</i>
+
+<br clear="both">
+
 <p align="center">
   <a href="https://github.com/ZedO0x/privscout"><img src="https://img.shields.io/badge/featured-PrivScout-FF1E2D?style=flat-square&labelColor=111111" alt="Featured project: PrivScout"></a>
   <img src="https://img.shields.io/badge/status-OSCP%20candidate-B00020?style=flat-square&labelColor=111111" alt="Status: OSCP candidate">
   <img src="https://img.shields.io/badge/focus-web%20%26%20API%20security-B00020?style=flat-square&labelColor=111111" alt="Focus: web and API security">
   <img src="https://img.shields.io/badge/testing-authorized%20only-292020?style=flat-square&labelColor=111111" alt="Authorized testing only">
-</p>
-
-<p align="center">
-  <b>Cybersecurity researcher and bug bounty hunter.</b><br>
-  I map attack surface, test how applications enforce trust, and build Python tooling<br>
-  to make that work repeatable. Currently preparing for the OSCP through structured labs.
 </p>
 
 <p align="center">
