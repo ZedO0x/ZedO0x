@@ -17,8 +17,8 @@ enforce trust, and build Python tooling to make that work repeatable.
 <code>▸</code> Bug Bounty Hunting<br>
 <code>▸</code> Web &amp; API Penetration Testing<br>
 <code>▸</code> Security Automation with Python<br>
-<code>▸</code> Reconnaissance &amp; Vulnerability Research
-<code>◇</code> OSCP 
+<code>▸</code> Reconnaissance &amp; Vulnerability Research<br>
+<code>▸</code> OSCP 
 
 <img src="assets/divider.svg" width="380" alt="">
 
