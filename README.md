@@ -18,13 +18,14 @@ enforce trust, and build Python tooling to make that work repeatable.
 <code>▸</code> Web &amp; API Penetration Testing<br>
 <code>▸</code> Security Automation with Python<br>
 <code>▸</code> Reconnaissance &amp; Vulnerability Research
+<code>◇</code> OSCP 
 
 <img src="assets/divider.svg" width="380" alt="">
 
 **In progress**<br>
 <code>◇</code> Mobile Application Security: <i>currently developing</i><br>
 <code>◇</code> AI Security &amp; Red Teaming: <i>currently developing</i><br>
-<code>◇</code> OSCP 
+
 
 <br clear="both">
 
