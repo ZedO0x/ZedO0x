@@ -24,7 +24,7 @@ enforce trust, and build Python tooling to make that work repeatable.
 **In progress**<br>
 <code>◇</code> Mobile Application Security: <i>currently developing</i><br>
 <code>◇</code> AI Security &amp; Red Teaming: <i>currently developing</i><br>
-<code>◇</code> OSCP <i>actively preparing</i>
+<code>◇</code> OSCP 
 
 <br clear="both">
 
